@@ -49,5 +49,9 @@
 2. Pytorch- Pool、Activation function和宣告自己想建立的結構<br>
 *教材: [04_pytorch_operators.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/04_pytorch_operators.ipynb) <br>
 
- 
+## Class 5: 利用Pytorch模組torchvision進行資料擴增(Data Augmentation)<br>
+**內容概述:** <br>
+怎麼利用Pytorch提供之torchvision data augumentation技巧進行資料擴增<br>
+
+*教材: [Pytorch_dataAug.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/05_Pytorch_dataAug.ipynb) <br> 
 

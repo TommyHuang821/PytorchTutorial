@@ -1,5 +1,15 @@
 # Pytorch Tutorial 實作課程
 
+- [Pytorch Tutorial 實作課程](#pytorch-tutorial-----)
+  * [Class 0: 數據型態簡介<br>](#class-0---------br-)
+  * [Class 1: 資料庫取得 <br>](#class-1---------br-)
+  * [Class 2: 利用Pytorch建立Dataset和Dataloader<br>](#class-2----pytorch--dataset-dataloader-br-)
+  * [Class 3: 利用Pytorch進行梯度下降更新<br>](#class-3----pytorch---------br-)
+  * [Class 4: 在pytorch建立卷積、池化和激活函數和自定義運算架構方式<br>](#class-4---pytorch-----------------------br-)
+  * [Class 5: 利用Pytorch模組torchvision進行資料擴增(Data Augmentation)<br>](#class-5----pytorch--torchvision-------data-augmentation--br-)
+  * [Class 6: Pytorch進行圖像分類模型訓練<br>](#class-6--pytorch-----------br-)
+  * [Class 7: Pytorch進行圖像分類 - 手刻ResNet-18和Torchvision匯入<br>](#class-7--pytorch-----------resnet-18-torchvision---br-)
+
 課程內容皆以jupyter note方式呈現。
 
 ## Class 0: 數據型態簡介<br>
@@ -76,3 +86,8 @@
 怎麼一層一層手刻ResNet-18，以及如何利用torchvision modelzo直接匯入模型和導入pretrain。<br>
 並且以CIFAR10為例進行訓練。<br>
 *教材: [pytorch_classification_resnet.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/07_pytorch_classification_resnet.ipynb) <br> 
+
+
+
+-----------------
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>

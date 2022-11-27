@@ -1,6 +1,10 @@
 # Pytorch Tutorial 實作課程
 
-- [Pytorch Tutorial 實作課程](#pytorch-tutorial-----)
+## 作者 Author
+![image](https://user-images.githubusercontent.com/25295252/204134360-67946cc4-e3fe-4c73-a994-b84e5e4098af.png)<br>
+<span> - &copy; 黃志勝 Chih-Sheng (Tommy) Huang (<a href="https://github.com/TommyHuang821">Github</a>) (<a href="https://sites.google.com/site/chihshenghuang821">個人網頁</a>) (<a href="https://medium.com/@chih-sheng-huang821">Medium文章</a>) </span>  
+
+## 目錄 
   * [Class 0: 數據型態簡介<br>](https://github.com/TommyHuang821/PytorchTutorial#class-0-%E6%95%B8%E6%93%9A%E5%9E%8B%E6%85%8B%E7%B0%A1%E4%BB%8B)
   * [Class 1: 資料庫取得 <br>](https://github.com/TommyHuang821/PytorchTutorial#class-1-%E8%B3%87%E6%96%99%E5%BA%AB%E5%8F%96%E5%BE%97-)
   * [Class 2: 利用Pytorch建立Dataset和Dataloader<br>](https://github.com/TommyHuang821/PytorchTutorial#class-2-%E5%88%A9%E7%94%A8pytorch%E5%BB%BA%E7%AB%8Bdataset%E5%92%8Cdataloader)
@@ -106,3 +110,9 @@
 DCGAN: Deep Convolutional Generative Adversarial Networks
 
 *教材: [Pytorch_DCGAN.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/09_Pytorch_DCGAN.ipynb) <br>
+
+## 授權 License
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/tw/88x31.png" /></a> (CC BY-NC-SA 4.0)<br />本教學課程適用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a> 授權方式。
+
+※ 轉載、改作、分享請附上以下內容：
+ - 如有轉載、改作、分享，請註明出處，source: https://github.com/TommyHuang821/PytorchTutorial

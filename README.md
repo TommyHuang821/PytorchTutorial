@@ -55,3 +55,18 @@
 
 *教材: [Pytorch_dataAug.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/05_Pytorch_dataAug.ipynb) <br> 
 
+## Class 6: Pytorch進行圖像分類模型訓練<br>
+**內容概述:** <br>
+1. Pytorch進行圖像分類: 利用MLP和CNN模型進行私有資料庫訓練<br>
+利用課程Class 01介紹「私有非結構化資料(水果資料庫)」的Fruits 360資料來進行圖像分類範例。<br>
+採用<br>
+1.1. MLP: Multilayer perceptron (多層感知機)，在深度學習每一層的perceptron則稱為Fully connection。<br>
+1.2. CNN: Convolutional Neural Network (卷積神經網路)<br>
+進行分類模型學習。<br>
+*教材: [pytorch_classification.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/06_pytorch_classification.ipynb) <br> 
+
+2. Pytorch進行圖像分類: 有沒有用Data augumention訓練模型是否真的有影響，以CIFAR-10為例。<br>
+這邊我們將拿CIFAR-10的資料來訓練和測試看看Data Augumention對於模型的影響。<br>
+- 番外篇1:我們拿西瓜、蘋果和香蕉的圖片來這兩個模型inference看看。<br>
+- 番外篇2: lr_scheduler是什麼?<br>
+*教材: [pytorch_classification_DataAugumention.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/06_pytorch_classification_DataAugumention.ipynb) <br> 

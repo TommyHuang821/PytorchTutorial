@@ -70,3 +70,9 @@
 - 番外篇1:我們拿西瓜、蘋果和香蕉的圖片來這兩個模型inference看看。<br>
 - 番外篇2: lr_scheduler是什麼?<br>
 *教材: [pytorch_classification_DataAugumention.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/06_pytorch_classification_DataAugumention.ipynb) <br> 
+
+## Class 7: Pytorch進行圖像分類 - 手刻ResNet-18和Torchvision匯入<br>
+**內容概述:** <br>
+怎麼一層一層手刻ResNet-18，以及如何利用torchvision modelzo直接匯入模型和導入pretrain。<br>
+並且以CIFAR10為例進行訓練。<br>
+*教材: [pytorch_classification_resnet.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/07_pytorch_classification_resnet.ipynb) <br> 

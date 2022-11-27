@@ -1,16 +1,16 @@
 # Pytorch Tutorial 實作課程
 
 - [Pytorch Tutorial 實作課程](#pytorch-tutorial-----)
-  * [Class 0: 數據型態簡介<br>](#class-0---------br-)
-  * [Class 1: 資料庫取得 <br>](#class-1---------br-)
-  * [Class 2: 利用Pytorch建立Dataset和Dataloader<br>](#class-2----pytorch--dataset-dataloader-br-)
-  * [Class 3: 利用Pytorch進行梯度下降更新<br>](#class-3----pytorch---------br-)
-  * [Class 4: 在pytorch建立卷積、池化和激活函數和自定義運算架構方式<br>](#class-4---pytorch-----------------------br-)
-  * [Class 5: 利用Pytorch模組torchvision進行資料擴增(Data Augmentation)<br>](#class-5----pytorch--torchvision-------data-augmentation--br-)
-  * [Class 6: Pytorch進行圖像分類模型訓練<br>](#class-6--pytorch-----------br-)
-  * [Class 7: Pytorch進行圖像分類 - 手刻ResNet-18和Torchvision匯入<br>](#class-7--pytorch-----------resnet-18-torchvision---br-)
-  * [Class 8: Pytorch-AutoEncoder<br>](#class-8--pytorch-autoencoder-br-)
-  * [Class 9: Generative Adversarial Network(GAN)<br>](#class-9--generative-adversarial-network-gan--br-)
+  * [Class 0: 數據型態簡介<br>](https://github.com/TommyHuang821/PytorchTutorial#class-0-%E6%95%B8%E6%93%9A%E5%9E%8B%E6%85%8B%E7%B0%A1%E4%BB%8B)
+  * [Class 1: 資料庫取得 <br>](https://github.com/TommyHuang821/PytorchTutorial#class-1-%E8%B3%87%E6%96%99%E5%BA%AB%E5%8F%96%E5%BE%97-)
+  * [Class 2: 利用Pytorch建立Dataset和Dataloader<br>](https://github.com/TommyHuang821/PytorchTutorial#class-2-%E5%88%A9%E7%94%A8pytorch%E5%BB%BA%E7%AB%8Bdataset%E5%92%8Cdataloader)
+  * [Class 3: 利用Pytorch進行梯度下降更新<br>](https://github.com/TommyHuang821/PytorchTutorial#class-3-%E5%88%A9%E7%94%A8pytorch%E9%80%B2%E8%A1%8C%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%9B%B4%E6%96%B0)
+  * [Class 4: 在pytorch建立卷積、池化和激活函數和自定義運算架構方式<br>](https://github.com/TommyHuang821/PytorchTutorial#class-4-%E5%9C%A8pytorch%E5%BB%BA%E7%AB%8B%E5%8D%B7%E7%A9%8D%E6%B1%A0%E5%8C%96%E5%92%8C%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B8%E5%92%8C%E8%87%AA%E5%AE%9A%E7%BE%A9%E9%81%8B%E7%AE%97%E6%9E%B6%E6%A7%8B%E6%96%B9%E5%BC%8F)
+  * [Class 5: 利用Pytorch模組torchvision進行資料擴增(Data Augmentation)<br>](https://github.com/TommyHuang821/PytorchTutorial#class-5-%E5%88%A9%E7%94%A8pytorch%E6%A8%A1%E7%B5%84torchvision%E9%80%B2%E8%A1%8C%E8%B3%87%E6%96%99%E6%93%B4%E5%A2%9Edata-augmentation)
+  * [Class 6: Pytorch進行圖像分類模型訓練<br>](https://github.com/TommyHuang821/PytorchTutorial#class-6-pytorch%E9%80%B2%E8%A1%8C%E5%9C%96%E5%83%8F%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4)
+  * [Class 7: Pytorch進行圖像分類 - 手刻ResNet-18和Torchvision匯入<br>](https://github.com/TommyHuang821/PytorchTutorial#class-7-pytorch%E9%80%B2%E8%A1%8C%E5%9C%96%E5%83%8F%E5%88%86%E9%A1%9E---%E6%89%8B%E5%88%BBresnet-18%E5%92%8Ctorchvision%E5%8C%AF%E5%85%A5)
+  * [Class 8: Pytorch-AutoEncoder<br>](https://github.com/TommyHuang821/PytorchTutorial#class-8-pytorch-autoencoder)
+  * [Class 9: Generative Adversarial Network(GAN)<br>](https://github.com/TommyHuang821/PytorchTutorial#class-9-generative-adversarial-networkgan)
 
 課程內容皆以jupyter note方式呈現。
 
@@ -106,6 +106,3 @@
 DCGAN: Deep Convolutional Generative Adversarial Networks
 
 *教材: [Pytorch_DCGAN.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/09_Pytorch_DCGAN.ipynb) <br>
-
------------------
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>

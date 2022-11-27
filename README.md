@@ -1,14 +1,16 @@
 # Pytorch Tutorial 實作課程
 
 - [Pytorch Tutorial 實作課程](#pytorch-tutorial-----)
-- [Class 0: 數據型態簡介<br>](#class-0---------br-)
-- [Class 1: 資料庫取得 <br>](#class-1---------br-)
-- [Class 2: 利用Pytorch建立Dataset和Dataloader<br>](#class-2----pytorch--dataset-dataloader-br-)
-- [Class 3: 利用Pytorch進行梯度下降更新<br>](#class-3----pytorch---------br-)
-- [Class 4: 在pytorch建立卷積、池化和激活函數和自定義運算架構方式<br>](#class-4---pytorch-----------------------br-)
-- [Class 5: 利用Pytorch模組torchvision進行資料擴增(Data Augmentation)<br>](#class-5----pytorch--torchvision-------data-augmentation--br-)
-- [Class 6: Pytorch進行圖像分類模型訓練<br>](#class-6--pytorch-----------br-)
-- [Class 7: Pytorch進行圖像分類 - 手刻ResNet-18和Torchvision匯入<br>](#class-7--pytorch-----------resnet-18-torchvision---br-)
+  * [Class 0: 數據型態簡介<br>](#class-0---------br-)
+  * [Class 1: 資料庫取得 <br>](#class-1---------br-)
+  * [Class 2: 利用Pytorch建立Dataset和Dataloader<br>](#class-2----pytorch--dataset-dataloader-br-)
+  * [Class 3: 利用Pytorch進行梯度下降更新<br>](#class-3----pytorch---------br-)
+  * [Class 4: 在pytorch建立卷積、池化和激活函數和自定義運算架構方式<br>](#class-4---pytorch-----------------------br-)
+  * [Class 5: 利用Pytorch模組torchvision進行資料擴增(Data Augmentation)<br>](#class-5----pytorch--torchvision-------data-augmentation--br-)
+  * [Class 6: Pytorch進行圖像分類模型訓練<br>](#class-6--pytorch-----------br-)
+  * [Class 7: Pytorch進行圖像分類 - 手刻ResNet-18和Torchvision匯入<br>](#class-7--pytorch-----------resnet-18-torchvision---br-)
+  * [Class 8: Pytorch-AutoEncoder<br>](#class-8--pytorch-autoencoder-br-)
+  * [Class 9: Generative Adversarial Network(GAN)<br>](#class-9--generative-adversarial-network-gan--br-)
 
 課程內容皆以jupyter note方式呈現。
 
@@ -87,7 +89,23 @@
 並且以CIFAR10為例進行訓練。<br>
 *教材: [pytorch_classification_resnet.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/07_pytorch_classification_resnet.ipynb) <br> 
 
+## Class 8: Pytorch-AutoEncoder<br>
+**內容概述:** <br>
+- 介紹Auto-Encoder (AE)
+- 利用Pytorch進行MNIST的AutoEncoder
+- 可視覺化方式觀察Embedding feature的分布。<br>
 
+內有補充內容: Flatten在pytorch怎麼做<br>
+
+*教材: [Pytorch_AutoEncoder.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/08_Pytorch_AutoEncoder.ipynb) <br> 
+
+## Class 9: Generative Adversarial Network(GAN)<br>
+**內容概述:** <br>
+- 介紹Generative Adversarial Network (AE)
+- Pytorch手把手進行DCGAN實作，以MNIST資料庫為例
+DCGAN: Deep Convolutional Generative Adversarial Networks
+
+*教材: [Pytorch_DCGAN.ipynb](https://github.com/TommyHuang821/PytorchTutorial/blob/main/Code/09_Pytorch_DCGAN.ipynb) <br>
 
 -----------------
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>

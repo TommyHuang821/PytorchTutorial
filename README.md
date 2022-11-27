@@ -1,4 +1,4 @@
-# PytorchTutorial 實作課程
+# Pytorch Tutorial 實作課程
 
 課程內容皆以jupyter note方式呈現。
 

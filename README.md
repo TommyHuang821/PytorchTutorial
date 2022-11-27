@@ -1,7 +1,7 @@
 # Pytorch Tutorial 實作課程
 
 - [Pytorch Tutorial 實作課程](#pytorch-tutorial-----)
-  * [Class 0: 數據型態簡介<br>](#class-0---------br-)
+  * [Class 0: 數據型態簡介<br>](##class-0---------br-)
   * [Class 1: 資料庫取得 <br>](#class-1---------br-)
   * [Class 2: 利用Pytorch建立Dataset和Dataloader<br>](#class-2----pytorch--dataset-dataloader-br-)
   * [Class 3: 利用Pytorch進行梯度下降更新<br>](#class-3----pytorch---------br-)

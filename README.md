@@ -4,7 +4,7 @@
   * [Class 0: 數據型態簡介<br>](##class-0---------br-)
   * [Class 1: 資料庫取得 <br>](#class-1---------br-)
   * [Class 2: 利用Pytorch建立Dataset和Dataloader<br>](#class-2----pytorch--dataset-dataloader-br-)
-  * [Class 3: 利用Pytorch進行梯度下降更新<br>](#class-3----pytorch---------br-)
+  * [Class 3: 利用Pytorch進行梯度下降更新<br>](https://github.com/TommyHuang821/PytorchTutorial/blob/main/README.md#class-3-%E5%88%A9%E7%94%A8pytorch%E9%80%B2%E8%A1%8C%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%9B%B4%E6%96%B0)
   * [Class 4: 在pytorch建立卷積、池化和激活函數和自定義運算架構方式<br>](#class-4---pytorch-----------------------br-)
   * [Class 5: 利用Pytorch模組torchvision進行資料擴增(Data Augmentation)<br>](#class-5----pytorch--torchvision-------data-augmentation--br-)
   * [Class 6: Pytorch進行圖像分類模型訓練<br>](#class-6--pytorch-----------br-)
